@@ -1,7 +1,7 @@
-# TCR Innocation Final Project
+# TCR Innovation Final Project
 
 ## Front-end Web Developement Program
-### Batch of 3rd January 2022
+### Batch of 3rd January 2022 - 5th March 2022
 ## Website Info - Travel Agency Website - "Voyage Tours"
 
 ### Tools and Technologies Used :
